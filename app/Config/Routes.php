@@ -47,6 +47,7 @@ $routes->group('admin', static function ($routes) {
 
 $routes->group('employee', static function ($routes) {
     $routes->get('/', 'LoginEmployee::index');
+    $routes->get('forgot-password', 'LoginEmployee::forgot_password');
 });
 
 /*

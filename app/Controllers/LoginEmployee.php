@@ -9,6 +9,6 @@ class LoginEmployee extends BaseController
     }
 
     public function forgot_password () {
-        return view('employee/forgot_password');
+        return view('employee/forgot-password');
     }
 }
