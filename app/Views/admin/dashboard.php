@@ -81,7 +81,7 @@
                                 <canvas style="width:100%; height:350px;" id="mybarChart"></canvas>
                             </div>
                             <div class="col-md-4">
-                                asd
+                                <canvas style="width:100%; height:320px;" id="myDoughnutChart"></canvas>
                             </div>
                         </div>
                     </div>
