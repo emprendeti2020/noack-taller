@@ -76,6 +76,14 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <canvas style="width:100%; height:350px;" id="mybarChart"></canvas>
+                            </div>
+                            <div class="col-md-4">
+                                asd
+                            </div>
+                        </div>
                     </div>
                      <!-- footer -->
                      <?php echo view('admin/includes/footer.template.php'); ?>
@@ -103,6 +111,6 @@
     var ps = new PerfectScrollbar('#sidebar');
 </script>
 <!-- custom js -->
-<script src="<?= base_url('public/admin/js/custom.js'); ?>"></script>
+<script src="<?= base_url('public/admin/js/templates/dashboard.js'); ?>"></script>
 <script src="<?= base_url('public/admin/js/chart_custom_style1.js'); ?>"></script>
 <?php echo $this->endSection(); ?>
