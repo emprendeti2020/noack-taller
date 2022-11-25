@@ -36,7 +36,7 @@
                                     <button class="main_bt" name="submit" type="submit">RESET</button>
                                 </div>
                             </fieldset>
-                            <a class="forgot" href="<?= url_to('/'); ?>">Login</a>
+                            <a class="forgot" href="<?= url_to('admin'); ?>">Login</a>
                         </form>
                     </div>
                 </div>

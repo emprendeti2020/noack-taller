@@ -29,11 +29,12 @@
                                 <div class="field">
                                     <label class="label_field hidden">hidden label</label>
                                     <label class="form-check-label"><input class="form-check-input" id="remember" name="remember" <?php if (isset($_COOKIE["user_login"])) { ?> checked <?php } ?> type="checkbox" /> Remember Me</label>
-                                    <a class="forgot" href="forgot-password.php">Forgotten Password?</a>
+                                    <a class="forgot" href="<?= url_to('admin/forgot-password'); ?>">Forgotten Password?</a>
                                 </div>
                                 <div class="field margin_0">
                                     <label class="label_field hidden">hidden label</label>
-                                    <button class="main_bt" name="login" type="submit">Login</button>
+                                    <a href="<?= url_to('admin/dashboard'); ?>" class="main_bt">Login</a>
+                                    <!--<button class="main_bt" name="login" type="submit">Login</button>-->
                                 </div>
                             </fieldset>
                             <a class="forgot" href="<?= url_to('/'); ?>">Home Page</a>
