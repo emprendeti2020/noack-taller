@@ -37,3 +37,17 @@
         </div>
     </div>
     <?php echo $this->endSection(); ?>
+
+    <?php echo $this->section("etms_main_js"); ?>
+    <!-- wow animation -->
+    <script src="<?= base_url('public/employee/js/animate.js'); ?>"></script>
+    <!-- select country -->
+    <script src="<?= base_url('public/employee/js/bootstrap-select.js'); ?>"></script>
+    <!-- nice scrollbar -->
+    <script src="<?= base_url('public/employee/js/perfect-scrollbar.min.js'); ?>"></script>
+    <script>
+        var ps = new PerfectScrollbar('#sidebar');
+    </script>
+    <!-- custom js -->
+    <script src="<?= base_url('public/employee/public/js/custom.js'); ?>"></script>
+    <?php echo $this->endSection(); ?>

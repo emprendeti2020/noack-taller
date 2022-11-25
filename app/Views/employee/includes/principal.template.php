@@ -25,9 +25,9 @@
     <?php echo $this->renderSection("etms_main_page"); ?>
     
     <!-- jQuery -->
-    <script src="<?= base_url('public/admin/js/jquery.min.js'); ?>"></script>
-    <script src="<?= base_url('public/admin/js/popper.min.js'); ?>"></script>
-    <script src="<?= base_url('public/admin/js/bootstrap.min.js'); ?>"></script>
+    <script src="<?= base_url('public/employee/js/jquery.min.js'); ?>"></script>
+    <script src="<?= base_url('public/employee/js/popper.min.js'); ?>"></script>
+    <script src="<?= base_url('public/employee/js/bootstrap.min.js'); ?>"></script>
 
     <?php echo $this->renderSection("etms_main_js"); ?>
    </body>
