@@ -21,7 +21,7 @@
                             <li><a href="<?= url_to('about'); ?>" class="effect-3">About</a></li>
                             <li><a href="<?= url_to('contact'); ?>" class="effect-3">Contact</a></li>
                             <li><a href="<?= url_to('admin'); ?>" class="effect-3">Admin</a></li>
-                            <li><a href="employee/login.php" class="effect-3">Employee</a></li>
+                            <li><a href="<?= url_to('employee'); ?>" class="effect-3">Employee</a></li>
                         </ul>
                     </nav>
                 </div>

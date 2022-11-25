@@ -45,6 +45,10 @@ $routes->group('admin', static function ($routes) {
     $routes->get('dashboard', 'DashboardAdmin::index');
 });
 
+$routes->group('employee', static function ($routes) {
+    $routes->get('/', 'LoginEmployee::index');
+});
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
