@@ -6,7 +6,7 @@
         <div class="inner_sec_grids_info_w3ls">
             <div class="col-md-6 banner_bottom_left">
                 <h4>Employment opportunities for <span>Professionals</span></h4>
-                <p> Employee Task Management System
+                <p> Prototipo Noack Desabolladura y pintura
                     Welcome to about Us page</p>
                 <div class="clearfix"> </div>
             </div>

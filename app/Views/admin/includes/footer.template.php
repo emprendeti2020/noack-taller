@@ -1,5 +1,5 @@
 <div class="container-fluid">
     <div class="footer">
-        <p>Employee Task Management System. All rights reserved.</p>
+        <p>Noack Taller - Desabolladura y Pintura. </p>
     </div>
 </div>

@@ -19,7 +19,7 @@
                         <div class="row column_title">
                             <div class="col-md-12">
                                 <div class="page_title">
-                                    <h2>Dashboard</h2>
+                                    <h2>Inicio</h2>
                                 </div>
                             </div>
                         </div>
@@ -34,8 +34,8 @@
                                     <div class="counter_no">
                                         <div>
                                             <a href="manage-employee.php">
-                                                <p class="total_no">4</p>
-                                                <p class="head_couter" style="color:#fff">Total Employees</p>
+                                                <p class="total_no">3.433</p>
+                                                <p class="head_couter" style="color:#fff">Total Clientes</p>
                                             </a>
                                         </div>
                                     </div>
@@ -51,8 +51,8 @@
                                     <div class="counter_no">
                                         <div>
                                             <a href="inprogress-task.php">
-                                                <p class="total_no">1</p>
-                                                <p class="head_couter" style="color:#fff">Inprogress Task</p>
+                                                <p class="total_no">122</p>
+                                                <p class="head_couter" style="color:#fff">En progreso</p>
                                             </a>
                                         </div>
                                     </div>
@@ -68,8 +68,8 @@
                                     <div class="counter_no">
                                         <div>
                                             <a href="completed-task.php">
-                                                <p class="total_no">3</p>
-                                                <p class="head_couter" style="color:#fff">Completed Task</p>
+                                                <p class="total_no">1.101</p>
+                                                <p class="head_couter" style="color:#fff">Completados</p>
                                             </a>
                                         </div>
                                     </div>
@@ -85,8 +85,8 @@
                             </div>
                         </div>
                     </div>
-                     <!-- footer -->
-                     <?php echo view('admin/includes/footer.template.php'); ?>
+                    <!-- footer -->
+                    <?php echo view('admin/includes/footer.template.php'); ?>
                 </div>
             </div>
         </div>

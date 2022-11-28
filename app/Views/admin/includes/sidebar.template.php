@@ -20,24 +20,26 @@
         <h4>General</h4>
         <ul class="list-unstyled components">
 
-            <li><a href="dashboard.php"><i class="fa fa-dashboard yellow_color"></i> <span>Dashboard</span></a></li>
+            <li><a href="dashboard.php"><i class="fa fa-dashboard yellow_color"></i> <span>Inicio</span></a></li>
             <li class="active">
-                <a href="#dashboard1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-files-o orange_color"></i> <span>Department</span></a>
+                <a href="#dashboard1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-files-o orange_color"></i> <span>Ot</span></a>
                 <ul class="collapse list-unstyled" id="dashboard1">
                     <li>
-                        <a href="add-dept.php">> <span>Add</span></a>
+                        <a href="add-dept.php">> <span>Agregar</span></a>
                     </li>
                     <li>
-                        <a href="manage-dept.php">> <span>Manage</span></a>
+                        <a href="manage-dept.php">> <span>Consultar</span></a>
                     </li>
                 </ul>
             </li>
 
             <li>
-                <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-users purple_color"></i> <span>Employee</span></a>
+                <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-users purple_color"></i> <span>Procesos</span></a>
                 <ul class="collapse list-unstyled" id="element">
-                    <li><a href="add-employee.php">> <span>Add Employee</span></a></li>
-                    <li><a href="manage-employee.php">> <span>Manage Employee</span></a></li>
+                    <li><a href="add-employee.php">> <span>Pintura</span></a></li>
+                    <li><a href="manage-employee.php">> <span>Desabolladura</span></a></li>
+                    <li><a href="manage-employee.php">> <span>Mecánica</span></a></li>
+                    <li><a href="manage-employee.php">> <span>Lavado</span></a></li>
 
                 </ul>
             </li>
@@ -50,14 +52,7 @@
 
                 </ul>
             </li>
-            <li>
-                <a href="#apps1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-briefcase blue1_color"></i> <span>Task Status</span></a>
-                <ul class="collapse list-unstyled" id="apps1">
-                    <li><a href="inprogress-task.php">> <span>Inprogress Task</span></a></li>
-                    <li><a href="completed-task.php">> <span>Completed Task</span></a></li>
 
-                </ul>
-            </li>
 
 
             <li class="active">
@@ -72,8 +67,29 @@
 
                 </ul>
             </li>
-            <li><a href="search-employee.php"><i class="fa fa-map purple_color2"></i> <span>Search Employee</span></a></li>
-            <li><a href="betweendates-task-report.php"><i class="fa fa-bar-chart-o green_color"></i> <span>Task Reports</span></a></li>
+            <li><a href="search-employee.php"><i class="fa fa-map purple_color2"></i> <span>Consultar OT</span></a></li>
+            <li>
+                <a href="#apps1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-briefcase blue1_color"></i> <span>Mantención</span></a>
+                <ul class="collapse list-unstyled" id="apps1">
+                    <li><a href="inprogress-task.php">> <span>Marca</span></a></li>
+                    <li><a href="completed-task.php">> <span>Modelo</span></a></li>
+                    <li><a href="completed-task.php">> <span>C.Seguros</span></a></li>
+                    <li><a href="completed-task.php">> <span>Clientes</span></a></li>
+                    <li><a href="completed-task.php">> <span>Usuarios</span></a></li>
+                    <li><a href="completed-task.php">> <span>Tarifas</span></a></li>
+                    <li><a href="completed-task.php">> <span>Comisiones</span></a></li>
+
+                </ul>
+            </li>
+
+            <li>
+                <a href="#apps2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-bar-chart-o green_color"></i> <span>Informes</span></a>
+                <ul class="collapse list-unstyled" id="apps2">
+                    <li><a href="inprogress-task.php">><span>Comisiones por pagar</span></a></li>
+                    <li><a href="completed-task.php">> <span>Comisiones pagadas</span></a></li>
+
+                </ul>
+            </li>
 
         </ul>
     </div>

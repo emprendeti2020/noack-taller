@@ -1,5 +1,5 @@
  <div class="container-fluid">
-                     <div class="footer">
-                        <p>Employee Task Management System. All rights reserved.</p>
-                     </div>
-                  </div>
+    <div class="footer">
+       <p>Prototipo Noack Desabolladura y pintura. All rights reserved.</p>
+    </div>
+ </div>

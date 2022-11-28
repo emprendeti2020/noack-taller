@@ -6,7 +6,7 @@
                     <a href="index.html">
                         <h2><span class="fa fa-signal" aria-hidden="true"></span> Employee Task <label>Management System</label></h2>
                     </a>
-                    <p>Employee Task Management System @ 2022</p>
+                    <p>Prototipo Noack Desabolladura y pintura @ 2022</p>
                 </div>
             </div>
             <div class="col-md-3 footer_bottom_grid">

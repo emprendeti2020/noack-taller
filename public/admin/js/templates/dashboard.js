@@ -4,7 +4,7 @@ const barChart = () => {
         labels: ["Ene", "Feb", "Mar", "Abr", "May", "Jun"],
         datasets: [
           {
-            label: "My First Dataset",
+            label: "OT Completadas",
             data: [65, 59, 80, 81, 56, 55, 40],
             backgroundColor: [
               "rgba(255, 99, 132, 0.2)",
@@ -50,7 +50,7 @@ const doughnutChart = () => {
     new Chart(ctx, {
         type: 'doughnut',
         data: {
-            labels: ["opción 1","opción 2","opción 3","opción 4"],
+            labels: ["Cliente 1","Cliente 2","Cliente 3","Cliente 4"],
             datasets: [{    
                 data: [320,120,115,412], // Specify the data values array
             

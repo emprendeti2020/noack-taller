@@ -9,7 +9,7 @@
                 <div class="login_section">
                     <div class="logo_login">
                         <div class="center">
-                            <h3 style="color: white;">Employee Task Management System</h3>
+                            <h3 style="color: white;">Noack Desabolladura y Pintura</h3>
                         </div>
                     </div>
                     <div class="login_form">
@@ -26,7 +26,7 @@
                                 <a class="forgot" href="forgot-password.php">Forgotten Password?</a>
                                 <div class="field margin_0">
                                     <label class="label_field hidden">hidden label</label>
-                                    <button class="main_bt" name="login" type="submit">Login</button>
+                                    <button class="main_bt" name="login" type="submit">Acceder</button>
                                 </div>
                             </fieldset>
                             <a class="forgot" href="<?= url_to('/'); ?>">Home Page</a>
