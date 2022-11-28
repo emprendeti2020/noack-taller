@@ -53,7 +53,7 @@
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
-                                                            <button type="button" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
                                                     </td>
                                                 </tr>
@@ -68,8 +68,8 @@
                                                     <td>Marca 2</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
-                                                        <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
-                                                            <button type="button" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></button>
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
                                                     </td>
                                                 </tr>
@@ -85,7 +85,7 @@
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
-                                                            <button type="button" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
                                                     </td>
                                                 </tr>

@@ -46,6 +46,7 @@ $routes->group('admin', static function ($routes) {
 
     $routes->group('ot', static function ($routes) {
         $routes->get('manage', 'OtController::index');
+        $routes->get('desabollar', 'DesabollarController::index');
     });
 });
 
