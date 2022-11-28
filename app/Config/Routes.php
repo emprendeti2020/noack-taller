@@ -43,12 +43,18 @@ $routes->group('admin', static function ($routes) {
     $routes->get('/', 'LoginAdmin::index');
     $routes->get('forgot-password', 'LoginAdmin::forgot_password');
     $routes->get('dashboard', 'DashboardAdmin::index');
+
+    $routes->group('ot', static function ($routes) {
+        $routes->get('manage', 'OtController::index');
+    });
 });
 
 $routes->group('employee', static function ($routes) {
     $routes->get('/', 'LoginEmployee::index');
     $routes->get('forgot-password', 'LoginEmployee::forgot_password');
 });
+
+
 
 /*
  * --------------------------------------------------------------------

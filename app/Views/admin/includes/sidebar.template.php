@@ -20,12 +20,12 @@
         <h4>General</h4>
         <ul class="list-unstyled components">
 
-            <li><a href="dashboard.php"><i class="fa fa-dashboard yellow_color"></i> <span>Inicio</span></a></li>
+            <li><a href="<?= url_to('admin/dashboard'); ?>"><i class="fa fa-dashboard yellow_color"></i> <span>Inicio</span></a></li>
             <li class="active">
                 <a href="#dashboard1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-files-o orange_color"></i> <span>Ot</span></a>
                 <ul class="collapse list-unstyled" id="dashboard1">
                     <li>
-                        <a href="add-dept.php">> <span>Agregar</span></a>
+                        <a href="<?= url_to('admin/ot/manage'); ?>">> <span>Agregar</span></a>
                     </li>
                     <li>
                         <a href="manage-dept.php">> <span>Consultar</span></a>

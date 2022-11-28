@@ -17,11 +17,13 @@
     <!-- custom css -->
     <link rel="stylesheet" href="<?= base_url('public/admin/css/custom.css'); ?>" />
 
+    <?php echo $this->renderSection("etms_main_css"); ?>
+
 </head>
 <?php echo $this->renderSection("etms_main_page"); ?>
 
 <!-- jQuery -->
-<script src="<?= base_url('public/admin/js/jquery.min.js'); ?>"></script>
+<script src="<?= base_url('public/admin/js/jquery-3.3.1.min.js'); ?>"></script>
 <script src="<?= base_url('public/admin/js/popper.min.js'); ?>"></script>
 <script src="<?= base_url('public/admin/js/bootstrap.min.js'); ?>"></script>
 
