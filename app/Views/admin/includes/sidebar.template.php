@@ -73,7 +73,8 @@
                 <ul class="collapse list-unstyled" id="apps1">
                     <li><a href="inprogress-task.php">> <span>Marca</span></a></li>
                     <li><a href="completed-task.php">> <span>Modelo</span></a></li>
-                    <li><a href="completed-task.php">> <span>C.Seguros</span></a></li>
+                    <li><a href="completed-task.php">> <span>C. Seguros</span></a></li>
+                    <li><a href="completed-task.php">> <span>Liquidadores</span></a></li>
                     <li><a href="completed-task.php">> <span>Clientes</span></a></li>
                     <li><a href="completed-task.php">> <span>Usuarios</span></a></li>
                     <li><a href="completed-task.php">> <span>Tarifas</span></a></li>
