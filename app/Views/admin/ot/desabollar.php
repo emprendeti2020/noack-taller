@@ -40,16 +40,16 @@
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td>Desmontar y montar</td>
-                                                        <td>16.000</td>
+                                                        <td>Espejo lateral izq.</td>
+                                                        <td>3.000</td>
                                                         <td></td>
                                                         <td>
                                                             <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td>Espejo lateral</td>
-                                                        <td>3.000</td>
+                                                        <td>Espejo lateral Der.</td>
+                                                        <td>6.000</td>
                                                         <td></td>
                                                         <td>
                                                             <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
@@ -66,6 +66,14 @@
                                                     <tr>
                                                         <td>Mold p/rueda tras izq</td>
                                                         <td>1.000</td>
+                                                        <td></td>
+                                                        <td>
+                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Tapiz pta tras Izq.</td>
+                                                        <td>5.000</td>
                                                         <td></td>
                                                         <td>
                                                             <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
