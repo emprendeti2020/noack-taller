@@ -7,7 +7,7 @@
     Version: 1.0
 -------------------------------------------------------------------*/	
 
-     var color = Chart.helpers.color;
+/*     var color = Chart.helpers.color;
 		var barChartData = {
 			labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
 			datasets: [{
@@ -147,4 +147,4 @@
 			});
 			window.myBar.update();
 		});
-		
+		*/

