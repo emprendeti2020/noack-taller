@@ -99,7 +99,7 @@
                                 <textarea class="form-control" cols="30" rows="10" placeholder="Mensaje..."></textarea>
                             </div>
                             <div class="col-12 mt-4">
-                                <button id="btn_finish" class="btn btn-danger btn-block">Finalizar</button>
+                                <button id="btn_finish" class="btn btn-danger btn-block p-3">Finalizar</button>
                             </div>
                         </div>
                     </div>
