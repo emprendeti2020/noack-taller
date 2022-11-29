@@ -41,42 +41,42 @@
                                                 <tbody>
                                                     <tr>
                                                         <td>Espejo lateral izq.</td>
-                                                        <td>3.000</td>
+                                                        <td style="text-align:right;">$3.000</td>
                                                         <td></td>
                                                         <td>
-                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                            <button id="button" data-finish="0" class="btn btn-danger btn-block">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Espejo lateral Der.</td>
-                                                        <td>6.000</td>
+                                                        <td style="text-align:right;">$6.000</td>
                                                         <td></td>
                                                         <td>
-                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                            <button id="button" data-finish="0" class="btn btn-danger btn-block">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Mold paso rueda Del. Izq.</td>
-                                                        <td>1.000</td>
+                                                        <td style="text-align: right;">$1.000</td>
                                                         <td></td>
                                                         <td>
-                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                            <button id="button" data-finish="0" class="btn btn-danger btn-block">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Mold p/rueda tras izq</td>
-                                                        <td>1.000</td>
+                                                        <td style="text-align:right;">$1.000</td>
                                                         <td></td>
                                                         <td>
-                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                            <button id="button" data-finish="0" class="btn btn-danger btn-block">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>Tapiz pta tras Izq.</td>
-                                                        <td>5.000</td>
+                                                        <td style="text-align:right;">$5.000</td>
                                                         <td></td>
                                                         <td>
-                                                            <button id="button" data-finish="0" class="btn btn-danger">Finalizar</button>
+                                                            <button id="button" data-finish="0" class="btn btn-danger btn-block">Finalizar</button>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -85,7 +85,8 @@
                                                         <td>
                                                             <b>Desmontar y montar</b>
                                                         </td>
-                                                        <td>16.000</td>
+                                                        <td style="text-align:right;">$16.000</td>
+                                                        <td colspan="2"></td>
                                                     </tr>
                                                 </tfoot>
                                             </table>

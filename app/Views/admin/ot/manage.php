@@ -42,7 +42,7 @@
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>
+                                                    <td style="text-align:center;">
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>123</td>
@@ -58,7 +58,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>
+                                                    <td style="text-align:center;">
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>123</td>
@@ -74,7 +74,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>
+                                                    <td style="text-align:center;">
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>123</td>
