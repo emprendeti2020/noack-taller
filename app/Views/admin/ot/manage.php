@@ -2,6 +2,11 @@
 
 <?php echo $this->section("etms_main_css"); ?>
 <link rel="stylesheet" href="<?= base_url('public/admin/css/jquery.dataTables.min.css'); ?>">
+<style type="text/css">
+    #myTable tr td:nth-child(1){ 
+        text-align: center;
+    }
+</style>
 <?php echo $this->endSection(); ?>
 
 <?php echo $this->section("etms_main_page"); ?>
@@ -42,7 +47,7 @@
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td style="text-align:center;">
+                                                    <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>123</td>
@@ -58,7 +63,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td style="text-align:center;">
+                                                    <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>456</td>
@@ -74,7 +79,7 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td style="text-align:center;">
+                                                    <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
                                                     <td>789</td>
