@@ -61,7 +61,7 @@
                                                     <td style="text-align:center;">
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>123</td>
+                                                    <td>456</td>
                                                     <td>Patente</td>
                                                     <td>Toyota</td>
                                                     <td>Modelo 2</td>
@@ -77,7 +77,151 @@
                                                     <td style="text-align:center;">
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
+                                                    <td>789</td>
+                                                    <td>Patente</td>
+                                                    <td>Volkswagen</td>
+                                                    <td>Modelo 3</td>
+                                                    <td>Marca 3</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
                                                     <td>123</td>
+                                                    <td>Patente</td>
+                                                    <td>Ford</td>
+                                                    <td>Modelo 1</td>
+                                                    <td>Marca 1</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>456</td>
+                                                    <td>Patente</td>
+                                                    <td>Toyota</td>
+                                                    <td>Modelo 2</td>
+                                                    <td>Marca 2</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>789</td>
+                                                    <td>Patente</td>
+                                                    <td>Volkswagen</td>
+                                                    <td>Modelo 3</td>
+                                                    <td>Marca 3</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>123</td>
+                                                    <td>Patente</td>
+                                                    <td>Ford</td>
+                                                    <td>Modelo 1</td>
+                                                    <td>Marca 1</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>456</td>
+                                                    <td>Patente</td>
+                                                    <td>Toyota</td>
+                                                    <td>Modelo 2</td>
+                                                    <td>Marca 2</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>789</td>
+                                                    <td>Patente</td>
+                                                    <td>Volkswagen</td>
+                                                    <td>Modelo 3</td>
+                                                    <td>Marca 3</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>123</td>
+                                                    <td>Patente</td>
+                                                    <td>Ford</td>
+                                                    <td>Modelo 1</td>
+                                                    <td>Marca 1</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>456</td>
+                                                    <td>Patente</td>
+                                                    <td>Toyota</td>
+                                                    <td>Modelo 2</td>
+                                                    <td>Marca 2</td>
+                                                    <td>
+                                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
+                                                            <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
+                                                    </td>
+                                                    <td>789</td>
                                                     <td>Patente</td>
                                                     <td>Volkswagen</td>
                                                     <td>Modelo 3</td>
