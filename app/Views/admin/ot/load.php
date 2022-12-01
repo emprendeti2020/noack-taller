@@ -58,6 +58,7 @@
                                                     <th>Nombre</th>
                                                     <th>Tamaño</th>
                                                     <th>Ruta</th>
+                                                    <th></th>
                                                 </tr>
                                             </thead>
                                             <tbody></tbody>
@@ -111,6 +112,14 @@
                         {
                             "data": 'path'
                         },
+                        {
+                            "data": null,
+                            "render": function (data) {
+                                let path = "<?= base_url('public/uploads/pdf/'); ?>";
+                                let $name = data.path.split('/').pop();
+                                return `<a href="${path}/${$name}" target="_blank"><i class="fa fa-eye"></i></a>`
+                            }
+                        }
                     ],
                     'destroy' : true,
                 }).draw();
