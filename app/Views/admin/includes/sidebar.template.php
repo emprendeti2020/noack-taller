@@ -28,6 +28,9 @@
                         <a href="<?= url_to('admin/ot/manage'); ?>">> <span>Agregar</span></a>
                     </li>
                     <li>
+                        <a href="<?= url_to('admin/ot/load'); ?>">> <span>Cargar PDF</span></a>
+                    </li>
+                    <li>
                         <a href="manage-dept.php">> <span>Consultar</span></a>
                     </li>
                 </ul>
