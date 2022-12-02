@@ -47,6 +47,9 @@ $routes->group('admin', static function ($routes) {
     $routes->group('ot', static function ($routes) {
         $routes->get('manage', 'OtController::index');
         $routes->get('desabollar', 'DesabollarController::index');
+        $routes->get('load', 'OtController::view_load');
+        $routes->post('upload', 'OtController::upload_pdf');
+        $routes->get('file-details', 'OtController::get_file_details');
     });
 });
 
