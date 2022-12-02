@@ -27,19 +27,19 @@
                     <li>
                         <a href="<?= url_to('admin/ot/manage'); ?>">> <span>Agregar</span></a>
                     </li>
-                    <li>
-                        <a href="manage-dept.php">> <span>Consultar</span></a>
-                    </li>
+
                 </ul>
             </li>
 
             <li>
                 <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-users purple_color"></i> <span>Procesos</span></a>
                 <ul class="collapse list-unstyled" id="element">
-                    <li><a href="add-employee.php">> <span>Pintura</span></a></li>
-                    <li><a href="manage-employee.php">> <span>Desabolladura</span></a></li>
-                    <li><a href="manage-employee.php">> <span>Mecánica</span></a></li>
-                    <li><a href="manage-employee.php">> <span>Lavado</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Pintura</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Desabolladura</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Armado</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Mecánica</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Lavado</span></a></li>
+                    <li><a href="<?= url_to('admin/ot/manage'); ?>">> <span>Entrega</span></a></li>
 
                 </ul>
             </li>
@@ -67,7 +67,7 @@
 
                 </ul>
             </li>
-            <li><a href="search-employee.php"><i class="fa fa-map purple_color2"></i> <span>Consultar OT</span></a></li>
+            <li><a href="<?= url_to('admin/ot/manage'); ?>"><i class="fa fa-map purple_color2"></i> <span>Consultar OT</span></a></li>
             <li>
                 <a href="#apps1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-briefcase blue1_color"></i> <span>Mantención</span></a>
                 <ul class="collapse list-unstyled" id="apps1">
@@ -88,6 +88,8 @@
                 <ul class="collapse list-unstyled" id="apps2">
                     <li><a href="inprogress-task.php">><span>Comisiones por pagar</span></a></li>
                     <li><a href="completed-task.php">> <span>Comisiones pagadas</span></a></li>
+                    <li><a href="completed-task.php">> <span>Entregas</span></a></li>
+                    <li><a href="completed-task.php">> <span>Rechazos</span></a></li>
 
                 </ul>
             </li>

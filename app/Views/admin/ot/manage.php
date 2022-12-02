@@ -3,7 +3,7 @@
 <?php echo $this->section("etms_main_css"); ?>
 <link rel="stylesheet" href="<?= base_url('public/admin/css/jquery.dataTables.min.css'); ?>">
 <style type="text/css">
-    #myTable tr td:nth-child(1){ 
+    #myTable tr td:nth-child(1) {
         text-align: center;
     }
 </style>
@@ -28,7 +28,7 @@
                             <div class="white_shd full margin_bottom_30" style="margin-top: 2rem;">
                                 <div class="full graph_head">
                                     <div class="heading1 margin_0">
-                                        <h2>Manage Department</h2>
+                                        <h2>Listado OT</h2>
                                     </div>
                                 </div>
                                 <div class="table_section padding_infor_info">

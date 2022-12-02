@@ -28,14 +28,14 @@
                                 <div class="full counter_section margin_bottom_30 blue1_bg">
                                     <div class="couter_icon">
                                         <div>
-                                            <i class="fa fa-users white_color"></i>
+                                            <i class="fa fa-paint-brush white_color"></i>
                                         </div>
                                     </div>
                                     <div class="counter_no">
                                         <div>
                                             <a href="manage-employee.php">
                                                 <p class="total_no">3.433</p>
-                                                <p class="head_couter" style="color:#fff">Total Clientes</p>
+                                                <p class="head_couter" style="color:#fff">Pintura</p>
                                             </a>
                                         </div>
                                     </div>
@@ -45,14 +45,14 @@
                                 <div class="full counter_section margin_bottom_30 red_bg">
                                     <div class="couter_icon">
                                         <div>
-                                            <i class="fa fa-file white_color"></i>
+                                            <i class="fa fa-hand-lizard-o white_color"></i>
                                         </div>
                                     </div>
                                     <div class="counter_no">
                                         <div>
                                             <a href="inprogress-task.php">
                                                 <p class="total_no">122</p>
-                                                <p class="head_couter" style="color:#fff">En progreso</p>
+                                                <p class="head_couter" style="color:#fff">Desabolladura</p>
                                             </a>
                                         </div>
                                     </div>
@@ -62,14 +62,14 @@
                                 <div class="full counter_section margin_bottom_30 green_bg">
                                     <div class="couter_icon">
                                         <div>
-                                            <i class="fa fa-file white_color"></i>
+                                            <i class="fa fa-car white_color"></i>
                                         </div>
                                     </div>
                                     <div class="counter_no">
                                         <div>
                                             <a href="completed-task.php">
                                                 <p class="total_no">1.101</p>
-                                                <p class="head_couter" style="color:#fff">Completados</p>
+                                                <p class="head_couter" style="color:#fff">Entregados</p>
                                             </a>
                                         </div>
                                     </div>

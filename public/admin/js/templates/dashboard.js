@@ -4,7 +4,7 @@ const barChart = () => {
         labels: ["Ene", "Feb", "Mar", "Abr", "May", "Jun"],
         datasets: [
           {
-            label: "OT Completadas",
+            label: "Entrega Vehículos",
             data: [65, 59, 80, 81, 56, 55, 40],
             backgroundColor: "rgba(54, 162, 235, 0.2)",
             borderColor: "rgb(54, 162, 235)",

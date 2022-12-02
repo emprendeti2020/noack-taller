@@ -96,7 +96,7 @@
                             </div>
                             <div class="col-md-12">
                                 <label for="">Mensaje</label>
-                                <textarea class="form-control" cols="30" rows="10" placeholder="Mensaje..."></textarea>
+                                <textarea class="form-control" cols="30" rows="10" placeholder="Observacion..."></textarea>
                             </div>
                             <div class="col-12 mt-4">
                                 <button id="btn_finish" class="btn btn-danger btn-block p-3">Finalizar</button>
@@ -140,7 +140,7 @@
         });
 
         $('#btn_finish').click(function() {
-            jQuery.each( $('[id=button]'), function( i, val ) {
+            jQuery.each($('[id=button]'), function(i, val) {
                 let $btn = $(val);
                 if (!$btn.data("finish")) {
                     $btn
