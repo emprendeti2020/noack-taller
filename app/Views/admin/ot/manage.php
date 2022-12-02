@@ -50,13 +50,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>123</td>
-                                                    <td>Patente</td>
-                                                    <td>Ford</td>
+                                                    <td>59100</td>
+                                                    <td>PPRX-85</td>
+                                                    <td>HDI SEGUROS S.A</td>
                                                     <td>Modelo 1</td>
-                                                    <td>Marca 1</td>
+                                                    <td>Ford</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -66,13 +68,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>456</td>
-                                                    <td>Patente</td>
-                                                    <td>Toyota</td>
+                                                    <td>59101</td>
+                                                    <td>PPRX-86</td>
+                                                    <td>HDI SEGUROS S.A</td>
                                                     <td>Modelo 2</td>
-                                                    <td>Marca 2</td>
+                                                    <td>Toyota</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -82,13 +86,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>789</td>
-                                                    <td>Patente</td>
-                                                    <td>Volkswagen</td>
+                                                    <td>59102</td>
+                                                    <td>PPRX-87</td>
+                                                    <td>HDI SEGUROS S.A</td>
                                                     <td>Modelo 3</td>
-                                                    <td>Marca 3</td>
+                                                    <td>MG</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -98,15 +104,17 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>123</td>
-                                                    <td>Patente</td>
-                                                    <td>Ford</td>
+                                                    <td>59103</td>
+                                                    <td>PPRX-88</td>
+                                                    <td>HDI SEGUROS S.A</td>
                                                     <td>Modelo 1</td>
-                                                    <td>Marca 1</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
+
                                                         </div>
                                                     </td>
                                                 </tr>
@@ -114,13 +122,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>456</td>
-                                                    <td>Patente</td>
-                                                    <td>Toyota</td>
+                                                    <td>59104</td>
+                                                    <td>PPRX-89</td>
+                                                    <td>MAPFRE</td>
                                                     <td>Modelo 2</td>
-                                                    <td>Marca 2</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -130,13 +140,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>789</td>
-                                                    <td>Patente</td>
-                                                    <td>Volkswagen</td>
+                                                    <td>59105</td>
+                                                    <td>PPRX-90</td>
+                                                    <td>MAPFRE</td>
                                                     <td>Modelo 3</td>
-                                                    <td>Marca 3</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -146,13 +158,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>123</td>
-                                                    <td>Patente</td>
-                                                    <td>Ford</td>
+                                                    <td>59106</td>
+                                                    <td>PPRX-91</td>
+                                                    <td>CARDIF</td>
                                                     <td>Modelo 1</td>
-                                                    <td>Marca 1</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -162,13 +176,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>456</td>
-                                                    <td>Patente</td>
-                                                    <td>Toyota</td>
+                                                    <td>59107</td>
+                                                    <td>PPRX-92</td>
+                                                    <td>CARDIF</td>
                                                     <td>Modelo 2</td>
-                                                    <td>Marca 2</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -178,13 +194,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>789</td>
-                                                    <td>Patente</td>
-                                                    <td>Volkswagen</td>
+                                                    <td>59108</td>
+                                                    <td>PPRX-93</td>
+                                                    <td>HDI Seguros</td>
                                                     <td>Modelo 3</td>
-                                                    <td>Marca 3</td>
+                                                    <td>Volkswagen</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -194,13 +212,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-g44e180881_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>123</td>
-                                                    <td>Patente</td>
-                                                    <td>Ford</td>
+                                                    <td>59109</td>
+                                                    <td>PPRX-94</td>
+                                                    <td>Zurich</td>
                                                     <td>Modelo 1</td>
-                                                    <td>Marca 1</td>
+                                                    <td>Volkswagen</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -210,13 +230,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge8f7880fa_640.png'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>456</td>
-                                                    <td>Patente</td>
-                                                    <td>Toyota</td>
+                                                    <td>59110</td>
+                                                    <td>PPRX-95</td>
+                                                    <td>Zurich</td>
                                                     <td>Modelo 2</td>
-                                                    <td>Marca 2</td>
+                                                    <td>Nissan</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
@@ -226,13 +248,15 @@
                                                     <td>
                                                         <img src="<?= base_url('public/admin/images/ot/car-ge80e1d212_640.jpg'); ?>" width="100" alt="">
                                                     </td>
-                                                    <td>789</td>
-                                                    <td>Patente</td>
-                                                    <td>Volkswagen</td>
+                                                    <td>59111</td>
+                                                    <td>PPRX-96</td>
+                                                    <td>Zurich</td>
                                                     <td>Modelo 3</td>
-                                                    <td>Marca 3</td>
+                                                    <td>Mitsubishi</td>
                                                     <td>
                                                         <div class="btn-group" role="group" aria-label="Basic example">
+                                                            <a href="<?= base_url("public/uploads/pdf/1669942930_9d248ed0ac46b606a6d1.pdf"); ?>" target="_blank" title="Ot" class="btn btn-warning"><i class="fa fa-eye"></i></a>
+
                                                             <button type="button" title="Pintura" class="btn btn-primary"><i class="fa fa-paint-brush"></i></button>
                                                             <a href="<?= url_to("admin/ot/desabollar"); ?>" title="Desabollar" class="btn btn-success"><i class="fa fa-sliders"></i></a>
                                                         </div>
