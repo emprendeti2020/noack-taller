@@ -13,10 +13,12 @@
 
 "use strict";
 
-$(document).ready(function () {
+ 
+/* $(document).ready(function () {
   /*-- sidebar js --*/
   $('#sidebar').addClass('active');
   $('#sidebarCollapse').on('click', function () {
     $('#sidebar').toggleClass('active');
   });
-});
+}); */
+ 

@@ -16,10 +16,10 @@
 $(document).ready(function () {
   /*-- sidebar js --*/
   console.log('Aqui')
-  $('#sidebar').addClass('active');
+   $('#sidebar').addClass('active');
   $('#sidebarCollapse').on('click', function () {
     $('#sidebar').toggleClass('active');
-  });
+  }); 
 
   /*-- tooltip js --*/
   $('[data-toggle="tooltip"]').tooltip();
